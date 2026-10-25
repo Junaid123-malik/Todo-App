@@ -108,7 +108,7 @@ Deployment steps:
 ## Project Links
 
 - **Live Demo:**(https://todoappproj.s3.us-east-1.amazonaws.com/index.html)
-- **GitHub Repository:** YOUR_GITHUB_REPOSITORY_URL
+- **GitHub Repository:** (https://github.com/Junaid123-malik/Todo-App.git)
 
 ## Learning Outcomes
 
